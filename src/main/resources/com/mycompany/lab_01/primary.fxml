@@ -10,7 +10,7 @@
    <children>
       <Label text="Primary View" />
       <Button fx:id="primaryButton" onAction="#switchToSecondary" text="Switch to Secondary View" />
-      <Label text="Messgae" />
+      <Label text="Message" />
       <TextField fx:id="textFieldMessage" />
       <Button fx:id="buttonShowMessage" mnemonicParsing="false" onAction="#showMessage" text="Show Message" />
    </children>
